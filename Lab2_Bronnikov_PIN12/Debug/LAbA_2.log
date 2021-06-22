@@ -1,0 +1,7 @@
+﻿  LAbA_2.cpp
+C:\Users\8200670\source\repos\LAbA_2\LAbA_2.cpp(188,47): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Users\8200670\source\repos\LAbA_2\LAbA_2.cpp(192,46): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Users\8200670\source\repos\LAbA_2\LAbA_2.cpp(196,50): warning C4267: инициализация: преобразование из "size_t" в "char"; возможна потеря данных
+C:\Users\8200670\source\repos\LAbA_2\LAbA_2.cpp(164,7): warning C4101: buffs: неиспользованная локальная переменная
+C:\Users\8200670\source\repos\LAbA_2\LAbA_2.cpp(215,8): warning C4101: file_pointer: неиспользованная локальная переменная
+  LAbA_2.vcxproj -> C:\Users\8200670\source\repos\LAbA_2\Debug\LAbA_2.exe
